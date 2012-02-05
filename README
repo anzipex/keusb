@@ -1,0 +1,17 @@
+keusb
+
+included:
+
+- KE-USB24R driver
+- CLI gate
+- network ICMP-scanner
+- LaTeX documentation
+- LaTeX ESPD MTKP stencil
+
+supported:
+
+- GNU/Linux
+- FreeBSD
+- Mac OS X
+- Windows
+
