@@ -2,6 +2,9 @@
 
 This project is a forked version of the Ke-USB24R module driver, with modifications aimed at enhancing its functionality.
 
+## Compatibility:
+This program is compatible with Windows OS only.
+
 ## Key Modifications:
 
 1. **Automatic COM port detection:** The COM port number is now automatically determined from 1 to 256, instead of the previous range of 1 to 9.
